@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fake-360/static/css/main.ab1fe595.css",
-    "main.js": "/fake-360/static/js/main.6ae37816.js",
+    "main.js": "/fake-360/static/js/main.e863225b.js",
     "static/media/SLIIT.jpg": "/fake-360/static/media/SLIIT.bdd0d8857272336e501d.jpg",
     "index.html": "/fake-360/index.html",
     "main.ab1fe595.css.map": "/fake-360/static/css/main.ab1fe595.css.map",
-    "main.6ae37816.js.map": "/fake-360/static/js/main.6ae37816.js.map"
+    "main.e863225b.js.map": "/fake-360/static/js/main.e863225b.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1fe595.css",
-    "static/js/main.6ae37816.js"
+    "static/js/main.e863225b.js"
   ]
 }
