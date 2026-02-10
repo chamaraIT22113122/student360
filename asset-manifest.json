@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/student360/static/css/main.09a5a4ce.css",
-    "main.js": "/student360/static/js/main.82054ae0.js",
+    "main.js": "/student360/static/js/main.e5a508a3.js",
     "static/media/SLIIT.jpg": "/student360/static/media/SLIIT.bdd0d8857272336e501d.jpg",
     "index.html": "/student360/index.html",
     "main.09a5a4ce.css.map": "/student360/static/css/main.09a5a4ce.css.map",
-    "main.82054ae0.js.map": "/student360/static/js/main.82054ae0.js.map"
+    "main.e5a508a3.js.map": "/student360/static/js/main.e5a508a3.js.map"
   },
   "entrypoints": [
     "static/css/main.09a5a4ce.css",
-    "static/js/main.82054ae0.js"
+    "static/js/main.e5a508a3.js"
   ]
 }
